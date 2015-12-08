@@ -29,4 +29,4 @@ Copyright (c) 2013 The Blakecoin developers
 Copyright (c) 2013 The Litecoin developers  
 Copyright (c) 2014 Fuguecoin developers  
 Copyright (c) 2014 GroestlCoin developers  
-Copyright (c) 2014 The Argon2 developers  
+Copyright (c) 2015 The Argon2 developers  
