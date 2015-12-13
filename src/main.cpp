@@ -1094,7 +1094,7 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 
 
 static const int64 nGenesisBlockRewardCoin = 1 * COIN;
-static const int64 nPremine = 50000 * COIN;
+static const int64 nPremine = 100000 * COIN;
 int64 minimumSubsidy = 2.0 * COIN;
 
 int64 static GetBlockSubsidy(int nHeight){
